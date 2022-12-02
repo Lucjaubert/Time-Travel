@@ -1,0 +1,41 @@
+{
+  "name": "wimbledon-scoreboards",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "eslint": "^8.17.0",
+    "eslint-plugin-vue": "^9.1.0",
+    "postcss": "^8.4.14",
+    "postcss-html": "^1.4.1",
+    "sass": "^1.52.2",
+    "sass-loader": "^13.0.0",
+    "stylelint": "^14.8.5",
+    "stylelint-config-html": "^1.0.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-property-sort-order-smacss": "^9.0.0",
+    "stylelint-config-recommended-vue": "^1.4.0",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-config-standard-scss": "^4.0.0",
+    "stylelint-declaration-strict-value": "^1.8.0",
+    "stylelint-webpack-plugin": "^3.3.0",
+    "vite": "^2.9.10",
+    "vite-plugin-stylelint": "^2.2.3"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
